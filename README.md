@@ -11,8 +11,7 @@
 </div>
 
 
-![simpler-flutter-tasks-commands](https://github.com/Eldiyar0220/just-images/blob/main/images/vscode.png) raw true
-
+![simpler-flutter-tasks-commands](images/simpler-flutter-tasks-commands.gif)
 
 A set of helpful Flutter and Dart commands for day to day Flutter development.
 
