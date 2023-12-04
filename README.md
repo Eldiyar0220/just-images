@@ -1,18 +1,18 @@
-<div align="center">
+<!-- <div align="center">
 <!--   <a href="https://marketplace.visualstudio.com/items?itemName=Eldiyar-Dev.simpler-flutter-tasks", width=350>
     <img src="./images/eldiyar_profile_icon.png" />
   </a> -->
-  <a>
+  <!-- <a>
     <img src="https://github.com/Eldiyar0220/just-images/blob/main/images/vscode.png"/>
   </a>
 
   <h1>Task for Visual Studio Code</h1>
 
-</div>
+</div> --> -->
 
-
-![simpler-flutter-tasks-commands](images/simpler-flutter-tasks-commands.gif)
-
+<video src="images/test.mp4" controls="controls" style="max-width: 730px;">
+</video>
+<!-- 
 A set of helpful Flutter and Dart commands for day to day Flutter development.
 
 ## Installation
@@ -60,4 +60,4 @@ I'm working hard to select all the day to day widgets, so wait for more commands
 
 ### 0.0.1
 
-Initial release
+Initial release -->
